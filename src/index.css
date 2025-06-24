@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+    background-color: #EAE2D6;
+}
+
+.archivo{
+    font-family: 'Archivo', sans-serif;
+}
+
+.lora{
+    font-family: 'Lora', serif;
+}
+
+.roboto{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+
+/* #D94D1A */

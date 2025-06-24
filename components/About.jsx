@@ -84,6 +84,7 @@ const About = forwardRef((props, ref) => {
                 </span>
 
             </div>
+            <div></div>
         </section>
     );
 });
